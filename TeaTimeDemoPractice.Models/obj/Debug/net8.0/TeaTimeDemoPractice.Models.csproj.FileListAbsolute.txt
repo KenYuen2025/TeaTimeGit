@@ -1,0 +1,116 @@
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice2\TeaTimeDemoPractice.Models\bin\Debug\net8.0\TeaTimeDemoPractice.Models.deps.json
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice2\TeaTimeDemoPractice.Models\bin\Debug\net8.0\TeaTimeDemoPractice.Models.dll
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice2\TeaTimeDemoPractice.Models\bin\Debug\net8.0\TeaTimeDemoPractice.Models.pdb
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice2\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice2\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.AssemblyInfoInputs.cache
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice2\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.AssemblyInfo.cs
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice2\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.csproj.CoreCompileInputs.cache
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice2\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.dll
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice2\TeaTimeDemoPractice.Models\obj\Debug\net8.0\refint\TeaTimeDemoPractice.Models.dll
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice2\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.pdb
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice2\TeaTimeDemoPractice.Models\obj\Debug\net8.0\ref\TeaTimeDemoPractice.Models.dll
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice3\TeaTimeDemoPractice.Models\bin\Debug\net8.0\TeaTimeDemoPractice.Models.deps.json
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice3\TeaTimeDemoPractice.Models\bin\Debug\net8.0\TeaTimeDemoPractice.Models.dll
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice3\TeaTimeDemoPractice.Models\bin\Debug\net8.0\TeaTimeDemoPractice.Models.pdb
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice3\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice3\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.AssemblyInfoInputs.cache
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice3\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.AssemblyInfo.cs
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice3\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.csproj.CoreCompileInputs.cache
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice3\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.dll
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice3\TeaTimeDemoPractice.Models\obj\Debug\net8.0\refint\TeaTimeDemoPractice.Models.dll
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice3\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.pdb
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice3\TeaTimeDemoPractice.Models\obj\Debug\net8.0\ref\TeaTimeDemoPractice.Models.dll
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice5\TeaTimeDemoPractice.Models\bin\Debug\net8.0\TeaTimeDemoPractice.Models.deps.json
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice5\TeaTimeDemoPractice.Models\bin\Debug\net8.0\TeaTimeDemoPractice.Models.dll
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice5\TeaTimeDemoPractice.Models\bin\Debug\net8.0\TeaTimeDemoPractice.Models.pdb
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice5\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice5\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.AssemblyInfoInputs.cache
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice5\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.AssemblyInfo.cs
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice5\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.csproj.CoreCompileInputs.cache
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice5\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.dll
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice5\TeaTimeDemoPractice.Models\obj\Debug\net8.0\refint\TeaTimeDemoPractice.Models.dll
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice5\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.pdb
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice5\TeaTimeDemoPractice.Models\obj\Debug\net8.0\ref\TeaTimeDemoPractice.Models.dll
+D:\VisualStudioProject\TeaTimeDemoPractice6\TeaTimeDemoPractice.Models\bin\Debug\net8.0\TeaTimeDemoPractice.Models.deps.json
+D:\VisualStudioProject\TeaTimeDemoPractice6\TeaTimeDemoPractice.Models\bin\Debug\net8.0\TeaTimeDemoPractice.Models.dll
+D:\VisualStudioProject\TeaTimeDemoPractice6\TeaTimeDemoPractice.Models\bin\Debug\net8.0\TeaTimeDemoPractice.Models.pdb
+D:\VisualStudioProject\TeaTimeDemoPractice6\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProject\TeaTimeDemoPractice6\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.AssemblyInfoInputs.cache
+D:\VisualStudioProject\TeaTimeDemoPractice6\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.AssemblyInfo.cs
+D:\VisualStudioProject\TeaTimeDemoPractice6\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.csproj.CoreCompileInputs.cache
+D:\VisualStudioProject\TeaTimeDemoPractice6\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.dll
+D:\VisualStudioProject\TeaTimeDemoPractice6\TeaTimeDemoPractice.Models\obj\Debug\net8.0\refint\TeaTimeDemoPractice.Models.dll
+D:\VisualStudioProject\TeaTimeDemoPractice6\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.pdb
+D:\VisualStudioProject\TeaTimeDemoPractice6\TeaTimeDemoPractice.Models\obj\Debug\net8.0\ref\TeaTimeDemoPractice.Models.dll
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice6\TeaTimeDemoPractice.Models\bin\Debug\net8.0\TeaTimeDemoPractice.Models.deps.json
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice6\TeaTimeDemoPractice.Models\bin\Debug\net8.0\TeaTimeDemoPractice.Models.dll
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice6\TeaTimeDemoPractice.Models\bin\Debug\net8.0\TeaTimeDemoPractice.Models.pdb
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice6\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice6\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.AssemblyInfoInputs.cache
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice6\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.AssemblyInfo.cs
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice6\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.csproj.CoreCompileInputs.cache
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice6\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.dll
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice6\TeaTimeDemoPractice.Models\obj\Debug\net8.0\refint\TeaTimeDemoPractice.Models.dll
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice6\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.pdb
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice6\TeaTimeDemoPractice.Models\obj\Debug\net8.0\ref\TeaTimeDemoPractice.Models.dll
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice6\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.csproj.AssemblyReference.cache
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice7\TeaTimeDemoPractice.Models\bin\Debug\net8.0\TeaTimeDemoPractice.Models.deps.json
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice7\TeaTimeDemoPractice.Models\bin\Debug\net8.0\TeaTimeDemoPractice.Models.dll
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice7\TeaTimeDemoPractice.Models\bin\Debug\net8.0\TeaTimeDemoPractice.Models.pdb
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice7\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.csproj.AssemblyReference.cache
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice7\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice7\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.AssemblyInfoInputs.cache
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice7\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.AssemblyInfo.cs
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice7\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.csproj.CoreCompileInputs.cache
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice7\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.dll
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice7\TeaTimeDemoPractice.Models\obj\Debug\net8.0\refint\TeaTimeDemoPractice.Models.dll
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice7\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.pdb
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice7\TeaTimeDemoPractice.Models\obj\Debug\net8.0\ref\TeaTimeDemoPractice.Models.dll
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice8B\TeaTimeDemoPractice.Models\bin\Debug\net8.0\TeaTimeDemoPractice.Models.deps.json
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice8B\TeaTimeDemoPractice.Models\bin\Debug\net8.0\TeaTimeDemoPractice.Models.dll
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice8B\TeaTimeDemoPractice.Models\bin\Debug\net8.0\TeaTimeDemoPractice.Models.pdb
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice8B\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.csproj.AssemblyReference.cache
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice8B\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice8B\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.AssemblyInfoInputs.cache
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice8B\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.AssemblyInfo.cs
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice8B\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.csproj.CoreCompileInputs.cache
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice8B\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.dll
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice8B\TeaTimeDemoPractice.Models\obj\Debug\net8.0\refint\TeaTimeDemoPractice.Models.dll
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice8B\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.pdb
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice8B\TeaTimeDemoPractice.Models\obj\Debug\net8.0\ref\TeaTimeDemoPractice.Models.dll
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice10\TeaTimeDemoPractice.Models\bin\Debug\net8.0\TeaTimeDemoPractice.Models.deps.json
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice10\TeaTimeDemoPractice.Models\bin\Debug\net8.0\TeaTimeDemoPractice.Models.dll
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice10\TeaTimeDemoPractice.Models\bin\Debug\net8.0\TeaTimeDemoPractice.Models.pdb
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice10\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.csproj.AssemblyReference.cache
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice10\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice10\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.AssemblyInfoInputs.cache
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice10\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.AssemblyInfo.cs
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice10\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.csproj.CoreCompileInputs.cache
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice10\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.dll
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice10\TeaTimeDemoPractice.Models\obj\Debug\net8.0\refint\TeaTimeDemoPractice.Models.dll
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice10\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.pdb
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice10\TeaTimeDemoPractice.Models\obj\Debug\net8.0\ref\TeaTimeDemoPractice.Models.dll
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice11\TeaTimeDemoPractice.Models\bin\Debug\net8.0\TeaTimeDemoPractice.Models.deps.json
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice11\TeaTimeDemoPractice.Models\bin\Debug\net8.0\TeaTimeDemoPractice.Models.dll
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice11\TeaTimeDemoPractice.Models\bin\Debug\net8.0\TeaTimeDemoPractice.Models.pdb
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice11\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.csproj.AssemblyReference.cache
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice11\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice11\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.AssemblyInfoInputs.cache
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice11\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.AssemblyInfo.cs
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice11\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.csproj.CoreCompileInputs.cache
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice11\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.dll
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice11\TeaTimeDemoPractice.Models\obj\Debug\net8.0\refint\TeaTimeDemoPractice.Models.dll
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice11\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.pdb
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice11\TeaTimeDemoPractice.Models\obj\Debug\net8.0\ref\TeaTimeDemoPractice.Models.dll
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice11DB\TeaTimeDemoPractice.Models\bin\Debug\net8.0\TeaTimeDemoPractice.Models.deps.json
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice11DB\TeaTimeDemoPractice.Models\bin\Debug\net8.0\TeaTimeDemoPractice.Models.dll
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice11DB\TeaTimeDemoPractice.Models\bin\Debug\net8.0\TeaTimeDemoPractice.Models.pdb
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice11DB\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.csproj.AssemblyReference.cache
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice11DB\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice11DB\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.AssemblyInfoInputs.cache
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice11DB\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.AssemblyInfo.cs
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice11DB\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.csproj.CoreCompileInputs.cache
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice11DB\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.dll
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice11DB\TeaTimeDemoPractice.Models\obj\Debug\net8.0\refint\TeaTimeDemoPractice.Models.dll
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice11DB\TeaTimeDemoPractice.Models\obj\Debug\net8.0\TeaTimeDemoPractice.Models.pdb
+C:\Users\Ken Yuen\source\repos\TeaTimeDemoPractice11DB\TeaTimeDemoPractice.Models\obj\Debug\net8.0\ref\TeaTimeDemoPractice.Models.dll
